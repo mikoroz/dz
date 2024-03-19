@@ -1,0 +1,34 @@
+table {
+border-collapse: collapse;
+width:80%;
+}
+td {
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	background-color:Aqua;
+}
+.text-block {
+	font-size:40px;
+	padding-top: 50px;
+}
+th{
+	border: 3px solid black;
+	background-color:MistyRose;
+	padding: 10px;
+	text-align: center;
+}
+td:hover{
+	background-color:LightCyan;
+}
+.Title{
+	font-family:'times new roman';
+	text-align:center;
+	color:SpringGreen;
+	font-size: 50px;
+	font-weight:bold;
+	padding-top:40px;
+}
+.bg{
+	background-color:DarkSlateBlue;
+}
